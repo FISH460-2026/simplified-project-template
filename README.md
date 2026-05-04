@@ -16,3 +16,6 @@ How does temperature stress impact the ability of hemigrapsus to detect predator
 - Metabolic activity (resazurin assay materials)
 - Hemolymph glucose activity (cayman chemical glucose assay)
 - Righting time
+
+You can insert a photo by dragging and dropping it!
+<img width="4032" height="3024" alt="PXL_20260504_190616634" src="https://github.com/user-attachments/assets/bd87873f-e6b5-49f9-9639-c636868aa796" />
